@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-taught frontend developer and mobile app developer, I am a dedicated problem solver with a passion for creating elegant and intuitive user experiences. Through my self-directed learning and practical projects, I have developed a strong foundation in HTML, CSS, JavaScript, as well as iOS and Android development (React Native). I am highly motivated and resourceful, with a keen eye for detail and a commitment to staying up-to-date with the latest trends and technologies. <br>I thrive in collaborative environments and am always eager to take on new challenges and continue learning and growing as a developer.
+As a self-taught frontend developer and mobile app developer, I am a dedicated problem solver with a passion for creating elegant and intuitive user experiences. Through my self-directed learning and practical projects, I have developed a strong foundation in HTML, CSS, JavaScript, as well as iOS and Android development (React Native). I am highly motivated and resourceful, with a keen eye for detail and a commitment to staying up-to-date with the latest trends and technologies. I thrive in collaborative environments and am always eager to take on new challenges and continue learning and growing as a developer.
 
 
 ## 🌐 Socials:
